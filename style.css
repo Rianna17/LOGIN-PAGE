@@ -5,17 +5,7 @@
     font-family: "Poppins", sans-serif;
     -moz-box-align: center;
 }
-/* body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-height: 100vh;
-    background: url('bp.jpg');
-    background-position: center;
-    width: 100%;
-    height: 100%;
-    position: relative;
-} */
+
 body {
     height: 100vh;
     display: flex;
